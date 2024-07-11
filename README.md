@@ -7,7 +7,7 @@ modules: # 指定首页展示模块
   
 banner: # banner 模块的配置
   heroText: 几百前端
-  tagline: 几百块的前端记录
+  tagline: 百龙的前端记录
   heroImage: /homepage.jpg
   heroImageStyle:
     maxWidth: 200px
@@ -18,7 +18,7 @@ banner: # banner 模块的配置
 
 bannerBrand: # bannerBrand 模块的配置
   heroText: 前端笔记
-  tagline: 几百块的前端记录
+  tagline: 百龙的前端记录
   heroImage: /homepage.jpg
   heroImageStyle:
     maxWidth: '200px'
